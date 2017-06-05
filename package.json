@@ -1,0 +1,23 @@
+{
+  "name": "request-exercise",
+  "version": "1.0.0",
+  "description": "LHL Day 6 Request Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanSFitz/request-exercise.git"
+  },
+  "author": "Sean Fitzpatrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanSFitz/request-exercise/issues"
+  },
+  "homepage": "https://github.com/SeanSFitz/request-exercise#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
